@@ -1,0 +1,28 @@
+.test{
+color: blue;
+/* cursor: progress; */
+cursor: pointer;
+/* cursor: url('images/rec.jpg'),auto; */
+}
+.container{
+display: flex;
+justify-content: space-around;
+/* align-items: center; */
+height: 300px;
+/* border: 2px solid teal; */
+gap: 20px;
+}
+
+
+.box{
+padding: 20px;
+background-color: chartreuse;
+width: 110px;
+}
+.box2{
+    background-color: aqua;
+}
+.box3{
+    background-color: rgb(37, 149, 177);
+}
+
